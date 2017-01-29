@@ -1,0 +1,24 @@
+Cmd	Unit	At	Track	Channel	Params
+Header	0	0ms	T0	C0	Ver0	120units	1tracks
+Bar	0	0ms	T1	C0	4/4
+Tempo	0	0ms	T1	C0	120.00bpm	500000us/b
+Control	438	1825ms	T1	C1	C0	V0
+Control	438	1825ms	T1	C1	C32	V0
+Program	443	1845ms	T1	C1	MusicBox
+Control	445	1854ms	T1	C1	C121	V0
+Control	448	1866ms	T1	C1	C7	V100
+Control	450	1875ms	T1	C1	C10	V64
+Control	453	1887ms	T1	C1	C91	V80
+Control	455	1895ms	T1	C1	C93	V0
+Control	458	1908ms	T1	C1	C101	V0
+Control	458	1908ms	T1	C1	C100	V0
+Control	463	1929ms	T1	C1	C6	V2
+Control	463	1929ms	T1	C1	C38	V0
+Pitch	468	1950ms	T1	C1	0
+Control	470	1958ms	T1	C1	C101	V127
+Control	470	1958ms	T1	C1	C100	V127
+Note	480	2000ms	T1	C1	50units	208ms	a5	Vel100
+Note	480	2000ms	T1	C1	50units	208ms	a4	Vel100
+Note	660	2750ms	T1	C1	50units	208ms	f#6	Vel100
+Note	660	2750ms	T1	C1	50units	208ms	f#5	Vel100
+Note	960	4000ms	T1	C1	50units	208ms	f#5	Vel60

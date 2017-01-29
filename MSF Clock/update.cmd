@@ -1,0 +1,1 @@
+avrdude -p t4313 -B 1 -V -U flash:w:MSF_Clock.hex

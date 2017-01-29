@@ -1,0 +1,16 @@
+;Westminster Chimes
+
+;<time tick> <note> <note> ...
+; 1
+0 Gis4
+200 Fis4
+400 E4
+600 B3
+
+; 2
+800 E4
+1000 Gis4
+1200 Fis4
+1400 B3
+
+2000 EoS

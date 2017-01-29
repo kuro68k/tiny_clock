@@ -1,0 +1,1 @@
+avrdude -p attiny45 -B 1 -V -U flash:w:melody.hex

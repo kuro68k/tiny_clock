@@ -1,0 +1,90 @@
+Cmd	Unit	At	Track	Channel	Params
+Header	0	0ms	T0	C0	Ver0	480units	1tracks
+Text	0	0ms	T1	C0	Trackname	~138~151~147c~137w~130P~148~212~144~252
+Bar	0	0ms	T1	C0	4/4
+Key	0	0ms	T1	C0	(null)
+Tempo	0	0ms	T1	C0	100.00bpm	600000us/b
+Control	0	0ms	T1	C1	C32	V0
+Control	0	0ms	T1	C1	C0	V0
+Program	0	0ms	T1	C1	Vibes
+Note	0	0ms	T1	C1	432units	540ms	d5	Vel120
+Control	0	0ms	T1	C2	C32	V0
+Control	0	0ms	T1	C2	C0	V0
+Program	0	0ms	T1	C2	Vibes
+Note	0	0ms	T1	C2	432units	540ms	d6	Vel100
+Control	0	0ms	T1	C3	C32	V0
+Control	0	0ms	T1	C3	C0	V0
+Program	0	0ms	T1	C3	Vibes
+Note	0	0ms	T1	C3	216units	270ms	d4	Vel100
+Note	240	300ms	T1	C3	216units	270ms	a#4	Vel100
+Note	480	600ms	T1	C1	432units	540ms	d5	Vel120
+Note	480	600ms	T1	C2	432units	540ms	d6	Vel100
+Note	480	600ms	T1	C3	216units	270ms	g4	Vel100
+Note	720	900ms	T1	C3	216units	270ms	a#4	Vel100
+Note	960	1200ms	T1	C1	432units	540ms	d5	Vel120
+Note	960	1200ms	T1	C2	432units	540ms	d6	Vel100
+Note	960	1200ms	T1	C3	216units	270ms	d4	Vel100
+Note	1200	1500ms	T1	C3	216units	270ms	a#4	Vel100
+Note	1440	1800ms	T1	C1	432units	540ms	d5	Vel120
+Note	1440	1800ms	T1	C2	432units	540ms	d6	Vel100
+Note	1440	1800ms	T1	C3	216units	270ms	g4	Vel100
+Note	1680	2100ms	T1	C3	216units	270ms	a#4	Vel100
+Note	1920	2400ms	T1	C1	324units	405ms	d5	Vel120
+Note	1920	2400ms	T1	C2	324units	405ms	d6	Vel100
+Note	1920	2400ms	T1	C3	216units	270ms	d4	Vel100
+Note	2160	2700ms	T1	C3	216units	270ms	a#4	Vel100
+Note	2280	2850ms	T1	C1	108units	135ms	c5	Vel120
+Note	2280	2850ms	T1	C2	108units	135ms	c6	Vel100
+Note	2400	3000ms	T1	C1	216units	270ms	a#4	Vel120
+Note	2400	3000ms	T1	C2	216units	270ms	a#5	Vel100
+Note	2400	3000ms	T1	C3	216units	270ms	g4	Vel100
+Note	2640	3300ms	T1	C1	216units	270ms	c5	Vel120
+Note	2640	3300ms	T1	C2	216units	270ms	c6	Vel100
+Note	2640	3300ms	T1	C3	216units	270ms	a#4	Vel100
+Note	2880	3600ms	T1	C1	864units	1080ms	d5	Vel120
+Note	2880	3600ms	T1	C2	864units	1080ms	d6	Vel100
+Note	2880	3600ms	T1	C3	216units	270ms	d4	Vel100
+Note	3120	3900ms	T1	C3	216units	270ms	a#4	Vel100
+Note	3360	4200ms	T1	C3	216units	270ms	g4	Vel100
+Note	3600	4500ms	T1	C3	216units	270ms	a#4	Vel100
+Note	3840	4800ms	T1	C1	432units	540ms	a4	Vel120
+Note	3840	4800ms	T1	C2	432units	540ms	a5	Vel100
+Note	3840	4800ms	T1	C3	216units	270ms	c#4	Vel100
+Note	4080	5100ms	T1	C3	216units	270ms	a4	Vel100
+Note	4320	5400ms	T1	C1	432units	540ms	a4	Vel120
+Note	4320	5400ms	T1	C2	432units	540ms	a5	Vel100
+Note	4320	5400ms	T1	C3	216units	270ms	e4	Vel100
+Note	4560	5700ms	T1	C3	216units	270ms	a4	Vel100
+Note	4800	6000ms	T1	C1	324units	405ms	a4	Vel120
+Note	4800	6000ms	T1	C2	324units	405ms	a5	Vel100
+Note	4800	6000ms	T1	C3	216units	270ms	c#4	Vel100
+Note	5040	6300ms	T1	C3	216units	270ms	a4	Vel100
+Note	5160	6450ms	T1	C1	108units	135ms	g4	Vel120
+Note	5160	6450ms	T1	C2	108units	135ms	g5	Vel100
+Note	5280	6600ms	T1	C1	216units	270ms	f4	Vel120
+Note	5280	6600ms	T1	C2	216units	270ms	f5	Vel100
+Note	5280	6600ms	T1	C3	216units	270ms	e4	Vel100
+Note	5520	6900ms	T1	C1	216units	270ms	e4	Vel120
+Note	5520	6900ms	T1	C2	216units	270ms	e5	Vel100
+Note	5520	6900ms	T1	C3	216units	270ms	a4	Vel100
+Note	5760	7200ms	T1	C1	216units	270ms	d4	Vel120
+Note	5760	7200ms	T1	C2	216units	270ms	d5	Vel100
+Note	5760	7200ms	T1	C3	216units	270ms	d4	Vel100
+Note	6000	7500ms	T1	C1	108units	135ms	f4	Vel120
+Note	6000	7500ms	T1	C2	108units	135ms	f5	Vel100
+Note	6000	7500ms	T1	C3	216units	270ms	a4	Vel100
+Note	6120	7650ms	T1	C1	108units	135ms	a4	Vel120
+Note	6120	7650ms	T1	C2	108units	135ms	a5	Vel100
+Note	6240	7800ms	T1	C1	216units	270ms	d5	Vel120
+Note	6240	7800ms	T1	C2	216units	270ms	d6	Vel100
+Note	6240	7800ms	T1	C3	216units	270ms	f4	Vel100
+Note	6480	8100ms	T1	C1	108units	135ms	a4	Vel120
+Note	6480	8100ms	T1	C2	108units	135ms	a5	Vel100
+Note	6480	8100ms	T1	C3	216units	270ms	a4	Vel100
+Note	6600	8250ms	T1	C1	108units	135ms	f4	Vel120
+Note	6600	8250ms	T1	C2	108units	135ms	f5	Vel100
+Note	6720	8400ms	T1	C1	1728units	2160ms	d4	Vel120
+Note	6720	8400ms	T1	C2	1728units	2160ms	d5	Vel100
+Note	6720	8400ms	T1	C3	864units	1080ms	f4	Vel100
+Note	6720	8400ms	T1	C3	864units	1080ms	d4	Vel100
+Note	6720	8400ms	T1	C3	864units	1080ms	a4	Vel100

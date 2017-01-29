@@ -1,0 +1,28 @@
+MFile 0 1 480
+MTrk
+0 Meta SeqName "\x8c\xdc\x94\xbd\x93c"
+0 TimeSig 4/4 24 8
+0 KeySig 2 major
+0 Tempo 545454
+0 Par ch=1 c=0 v=0
+0 Par ch=1 c=32 v=0
+0 PrCh ch=1 p=88
+0 Par ch=2 c=0 v=0
+0 Par ch=2 c=32 v=0
+0 PrCh ch=2 p=88
+0 Par ch=3 c=0 v=0
+0 Par ch=3 c=32 v=0
+0 PrCh ch=3 p=88
+0 On ch=3 n=50 v=100
+0 Par ch=4 c=0 v=0
+0 Par ch=4 c=32 v=0
+0 PrCh ch=4 p=11
+0 Par ch=5 c=0 v=0
+0 Par ch=5 c=32 v=0
+0 PrCh ch=5 p=11
+0 Par ch=6 c=0 v=0
+0 Par ch=6 c=32 v=0
+0 PrCh ch=6 p=11
+0 On ch=6 n=50 v=100
+8544 Meta TrkEnd
+TrkEnd

@@ -1,0 +1,101 @@
+Cmd	Unit	At	Track	Channel	Params
+Header	0	0ms	T0	C0	Ver0	480units	1tracks
+Text	0	0ms	T1	C0	Trackname	~142O~145~233~137w~130U~148~212~144~252
+Bar	0	0ms	T1	C0	4/4
+Key	0	0ms	T1	C0	D#
+Tempo	0	0ms	T1	C0	160.00bpm	375000us/b
+Control	0	0ms	T1	C1	C0	V0
+Control	0	0ms	T1	C1	C32	V0
+Program	0	0ms	T1	C1	Atmosphr
+Note	0	0ms	T1	C1	216units	168ms	c#4	Vel100
+Control	0	0ms	T1	C2	C0	V0
+Control	0	0ms	T1	C2	C32	V0
+Program	0	0ms	T1	C2	Atmosphr
+Note	0	0ms	T1	C2	216units	168ms	c#5	Vel100
+Control	0	0ms	T1	C3	C0	V0
+Control	0	0ms	T1	C3	C32	V0
+Program	0	0ms	T1	C3	Atmosphr
+Note	0	0ms	T1	C3	864units	675ms	a3	Vel100
+Note	240	187ms	T1	C1	216units	169ms	e4	Vel100
+Note	240	187ms	T1	C2	216units	169ms	e5	Vel100
+Note	480	375ms	T1	C1	216units	168ms	a4	Vel100
+Note	480	375ms	T1	C2	216units	168ms	a5	Vel100
+Note	720	562ms	T1	C1	216units	169ms	g#4	Vel100
+Note	720	562ms	T1	C2	216units	169ms	g#5	Vel100
+Note	960	750ms	T1	C1	432units	337ms	a4	Vel100
+Note	960	750ms	T1	C2	432units	337ms	a5	Vel100
+Note	1200	937ms	T1	C3	216units	169ms	a3	Vel100
+Note	1440	1125ms	T1	C1	432units	337ms	e4	Vel100
+Note	1440	1125ms	T1	C2	432units	337ms	e5	Vel100
+Note	1440	1125ms	T1	C3	216units	168ms	b3	Vel100
+Note	1680	1312ms	T1	C3	216units	169ms	c#4	Vel100
+Note	1920	1500ms	T1	C1	216units	168ms	d4	Vel100
+Note	1920	1500ms	T1	C2	216units	168ms	d5	Vel100
+Note	1920	1500ms	T1	C3	432units	337ms	b3	Vel100
+Note	2160	1687ms	T1	C1	216units	169ms	f#4	Vel100
+Note	2160	1687ms	T1	C2	216units	169ms	f#5	Vel100
+Note	2400	1875ms	T1	C1	216units	168ms	b4	Vel100
+Note	2400	1875ms	T1	C2	216units	168ms	b5	Vel100
+Note	2400	1875ms	T1	C3	432units	337ms	f#3	Vel100
+Note	2640	2062ms	T1	C1	216units	169ms	a4	Vel100
+Note	2640	2062ms	T1	C2	216units	169ms	a5	Vel100
+Note	2880	2250ms	T1	C1	216units	168ms	g#4	Vel100
+Note	2880	2250ms	T1	C2	216units	168ms	g#5	Vel100
+Note	2880	2250ms	T1	C3	432units	337ms	e4	Vel100
+Note	3120	2437ms	T1	C1	216units	169ms	f#4	Vel100
+Note	3120	2437ms	T1	C2	216units	169ms	f#5	Vel100
+Note	3360	2625ms	T1	C1	216units	168ms	g#4	Vel100
+Note	3360	2625ms	T1	C2	216units	168ms	g#5	Vel100
+Note	3360	2625ms	T1	C3	432units	337ms	d4	Vel100
+Note	3600	2812ms	T1	C1	216units	169ms	e4	Vel100
+Note	3600	2812ms	T1	C2	216units	169ms	e5	Vel100
+Key	3840	3000ms	T1	C0	C
+Note	3840	3000ms	T1	C1	216units	168ms	e4	Vel100
+Note	3840	3000ms	T1	C2	216units	168ms	e5	Vel100
+Note	3840	3000ms	T1	C3	864units	675ms	c4	Vel100
+Note	4080	3187ms	T1	C1	216units	169ms	g4	Vel100
+Note	4080	3187ms	T1	C2	216units	169ms	g5	Vel100
+Note	4320	3375ms	T1	C1	216units	168ms	c5	Vel100
+Note	4320	3375ms	T1	C2	216units	168ms	c6	Vel100
+Note	4560	3562ms	T1	C1	216units	169ms	b4	Vel100
+Note	4560	3562ms	T1	C2	216units	169ms	b5	Vel100
+Note	4800	3750ms	T1	C1	432units	337ms	c5	Vel100
+Note	4800	3750ms	T1	C2	432units	337ms	c6	Vel100
+Note	5040	3937ms	T1	C3	216units	169ms	c4	Vel100
+Note	5280	4125ms	T1	C1	432units	337ms	g4	Vel100
+Note	5280	4125ms	T1	C2	432units	337ms	g5	Vel100
+Note	5280	4125ms	T1	C3	216units	168ms	d4	Vel100
+Note	5520	4312ms	T1	C3	216units	169ms	e4	Vel100
+Note	5760	4500ms	T1	C1	216units	168ms	f4	Vel100
+Note	5760	4500ms	T1	C2	216units	168ms	f5	Vel100
+Note	5760	4500ms	T1	C3	432units	337ms	d4	Vel100
+Note	6000	4687ms	T1	C1	216units	169ms	a4	Vel100
+Note	6000	4687ms	T1	C2	216units	169ms	a5	Vel100
+Note	6240	4875ms	T1	C1	216units	168ms	d5	Vel100
+Note	6240	4875ms	T1	C2	216units	168ms	d6	Vel100
+Note	6240	4875ms	T1	C3	432units	337ms	a3	Vel100
+Note	6480	5062ms	T1	C1	216units	169ms	c5	Vel100
+Note	6480	5062ms	T1	C2	216units	169ms	c6	Vel100
+Note	6720	5250ms	T1	C1	216units	168ms	b4	Vel100
+Note	6720	5250ms	T1	C2	216units	168ms	b5	Vel100
+Note	6720	5250ms	T1	C3	432units	337ms	g4	Vel100
+Note	6960	5437ms	T1	C1	216units	169ms	a4	Vel100
+Note	6960	5437ms	T1	C2	216units	169ms	a5	Vel100
+Note	7200	5625ms	T1	C1	216units	168ms	b4	Vel100
+Note	7200	5625ms	T1	C2	216units	168ms	b5	Vel100
+Note	7200	5625ms	T1	C3	432units	337ms	g3	Vel100
+Note	7440	5812ms	T1	C1	216units	169ms	g4	Vel100
+Note	7440	5812ms	T1	C2	216units	169ms	g5	Vel100
+Tempo	7680	6000ms	T1	C0	120.00bpm	500000us/b
+Note	7680	6000ms	T1	C1	216units	225ms	c5	Vel100
+Note	7680	6000ms	T1	C2	216units	225ms	c6	Vel100
+Note	7680	6000ms	T1	C3	1296units	1525ms	c4	Vel100
+Note	7920	6250ms	T1	C1	216units	225ms	g4	Vel100
+Note	7920	6250ms	T1	C2	216units	225ms	g5	Vel100
+Note	8160	6500ms	T1	C1	216units	225ms	f4	Vel100
+Note	8160	6500ms	T1	C2	216units	225ms	f5	Vel100
+Note	8400	6750ms	T1	C1	216units	225ms	g4	Vel100
+Note	8400	6750ms	T1	C2	216units	225ms	g5	Vel100
+Tempo	8640	7000ms	T1	C0	80.00bpm	750000us/b
+Note	8640	7000ms	T1	C1	864units	1350ms	e4	Vel100
+Note	8640	7000ms	T1	C2	864units	1350ms	e5	Vel100
